@@ -1,0 +1,1 @@
+This is a time-series initialisation. I mention a lot of techniques to study time series such as simple EDA (resampling , rolling ...) and also techniques for forecasting such as check for stationary data and differencing
